@@ -1,0 +1,12 @@
+name: OptimalSMART2
+title: OptimalSMART2
+username:
+account: andreamorciano
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2060039
+bundleId: 3040527
+url: https://andreamorciano.shinyapps.io/OptimalSMART2/
+when: 1587411440.83239
+asMultiple: FALSE
+asStatic: FALSE
